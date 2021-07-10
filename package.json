@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-apriori-affinity-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyas0812/nodejs-Apriori-Affinity-Analysis.git"
+  },
+  "keywords": [
+    "apriori",
+    "nodejs",
+    "affinity-analysis"
+  ],
+  "author": "Shreyas Raorane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyas0812/nodejs-Apriori-Affinity-Analysis/issues"
+  },
+  "homepage": "https://github.com/Shreyas0812/nodejs-Apriori-Affinity-Analysis#readme",
+  "dependencies": {
+    "node-apriori": "^1.0.0",
+    "node-fpgrowth": "^1.2.1"
+  }
+}
